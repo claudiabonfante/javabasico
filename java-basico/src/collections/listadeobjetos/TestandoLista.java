@@ -1,10 +1,13 @@
-package collections;
+package collections.listadeobjetos;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class TestandoListas {
+public class TestandoLista {
+    public TestandoLista(String s, int i) {
+    }
+
     public static void main(String[] args) {
         String teste1 = "Teste 01";
         String teste2 = "Modelando testes";
