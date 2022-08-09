@@ -50,10 +50,9 @@ public class Curso {
         if(!matriculaParaAluno.containsKey(numero)){
             throw new NoSuchElementException("Matrícula não encontrada: " + numero );
 
-            return matriculaParaAluno.get(numero);
         }
 
 
-
+        return null;
     }
 }
