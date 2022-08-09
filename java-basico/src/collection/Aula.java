@@ -1,4 +1,4 @@
-package collections.listadeobjetos;
+package collection;
 
 public class Aula implements Comparable<Aula>{
     private String titulo;

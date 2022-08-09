@@ -1,4 +1,4 @@
-package collections.listadeobjetos;
+package collection;
 
 public class TesteBuscaAlunosNoCurso {
     public static void main(String[] args) {

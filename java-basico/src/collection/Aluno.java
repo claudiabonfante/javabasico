@@ -1,4 +1,4 @@
-package collections.listadeobjetos;
+package collection;
 
 public class Aluno {
     private String nome;
