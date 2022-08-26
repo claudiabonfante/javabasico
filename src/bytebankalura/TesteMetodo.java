@@ -16,9 +16,9 @@ public class TesteMetodo {
         conta2.deposita(1000);
 
         conta2.transfere(300, conta1);
-
-        conta1.titular = "Titular Teste";
-        System.out.println(conta1.titular);
+//
+//        conta1.titular = "Titular Teste";
+//        System.out.println(conta1.titular);
 
     }
 }
