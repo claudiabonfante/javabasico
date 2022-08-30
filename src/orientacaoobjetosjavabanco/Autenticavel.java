@@ -1,4 +1,4 @@
-package bytebankalura;
+package orientacaoobjetosjavabanco;
 
 public abstract interface Autenticavel {
 

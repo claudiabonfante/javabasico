@@ -1,4 +1,4 @@
-package bytebankalura;
+package orientacaoobjetosjavabanco;
 
 public class SistemaInterno {
     private int senha = 1234;

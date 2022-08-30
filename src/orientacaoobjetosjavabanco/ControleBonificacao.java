@@ -1,4 +1,4 @@
-package bytebankalura;
+package orientacaoobjetosjavabanco;
 
 public class ControleBonificacao {
     private double soma;

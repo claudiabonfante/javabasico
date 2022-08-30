@@ -1,4 +1,4 @@
-package bytebankalura;
+package orientacaoobjetosjavabanco;
 
 public class ContaCorrente extends Conta{
 
@@ -7,8 +7,8 @@ public class ContaCorrente extends Conta{
     }
 
     @Override
-    public boolean saca(double valor) {
+    public void saca(double valor) {
         double valorASacar= valor + 0.2;
-        return super.saca(valorASacar);
+        super.saca(valorASacar);
     }
 }

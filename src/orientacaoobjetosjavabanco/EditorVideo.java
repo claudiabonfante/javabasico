@@ -1,4 +1,4 @@
-package bytebankalura;
+package orientacaoobjetosjavabanco;
 
 public class EditorVideo extends Funcionario {
     public double getBonificacao(){
